@@ -1,10 +1,14 @@
 pipeline {
     agent any
 
+    tools {
+        maven 'M3'
+    }
+
     stages {
         stage('Checkout') {
             steps {
-                sh "rm -rf *"
+                sh "rm -rf project"
                 sh "git clone https://github.com/aalaeg1/TPJavaPipeLine-AalaeGoudal.git project"
             }
         }
