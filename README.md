@@ -26,7 +26,8 @@ Mettre en place un **pipeline CI/CD Jenkins** pour un projet **Java Maven** en u
 
 ## 📁 Structure du projet
 
-![alt text](image.png)
+<img width="319" height="374" alt="image" src="https://github.com/user-attachments/assets/3b8c4258-d9e3-436f-b55b-d165ecc2a555" />
+
 
 
 ---
@@ -71,7 +72,8 @@ Le pipeline s’exécute avec succès (statut **SUCCESS**).
 ### 📸 Capture 1 — Pipeline Jenkins en succès (vert)
 *(Dashboard Jenkins)*
 
-![alt text](image-1.png)
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/2aabea76-5865-42a9-ba68-69cddd72d546" />
+
 
 
 ---
