@@ -96,7 +96,7 @@ Après correction, le pipeline s’exécute correctement.
 ---
 
 ## 🧾 Conclusion
-Ce TP a permis de mettre en place un **pipeline CI/CD fonctionnel** avec Jenkins et Docker.  
+En conclusion ce TP a permis de mettre en place un **pipeline CI/CD fonctionnel** avec Jenkins et Docker.  
 Le projet Java est désormais **automatiquement compilé et testé**, ce qui garantit une intégration continue efficace.
 
 ---
